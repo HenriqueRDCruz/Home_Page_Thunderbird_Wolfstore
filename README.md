@@ -11,4 +11,6 @@ Esta é a **página inicial** desenvolvida para ser utilizada no Thunderbird pel
 
 ## Tecnologias Utilizadas
 
-- **HTML5**, **CSS** & **Bootstrap5**
+- **HTML5**
+- **CSS**
+- **Bootstrap5**
